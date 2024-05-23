@@ -1,6 +1,3 @@
-
-oldest_age = 0
-
 list_of_ages = []
 
 for x in range(0,3):
