@@ -6,6 +6,6 @@ def multiply(numbers):
 
 my_list = [8,3,7,-1,2]
 
-multiply = multiply(my_list)
+answer = multiply(my_list)
 
-print(multiply)
+print(answer)

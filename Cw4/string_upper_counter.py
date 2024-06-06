@@ -1,5 +1,5 @@
 def counter(my_string):
-    
+
     counter_upper = 0
     counter_lower = 0
 
@@ -13,7 +13,7 @@ def counter(my_string):
     return counter_upper,counter_lower
     
 
-string = input()
+string = input('please enter the sentence: ')
 
 upper , lower = counter(string)
 
